@@ -49,8 +49,8 @@ The model outputs the coordinates which are then de-normalized to the original i
    ```bash
    pip install -r requirements.txt
 
-3. Pre-trainded weights can be download from:
-[EfficientNet-B1-Pretrained-Weight](https://drive.google.com/file/d/1Z1YE09sp-ZmbWWWcLTJrEoBXPn-jY-MH/view?usp=drive_link)
+3. Pre-trained weights can be download from:
+[EfficientNet-B1-Pre-trained-Weight](https://drive.google.com/file/d/1Z1YE09sp-ZmbWWWcLTJrEoBXPn-jY-MH/view?usp=drive_link)
 
 or installed from:
 ```bash
