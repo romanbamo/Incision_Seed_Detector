@@ -9,7 +9,8 @@ def predict_seed(image_path, model_path):
     
     # 1. Load Model
     model = IncisionSeedModel(freeze_backbone=False)
-    model.load_state_dict(torch.load(model_path, map_location=device))
+    state_dict = torch.load(model_path, map_location=device)
+    model.load_state_dict(state_dict, strict=False)
     model.to(device).eval()
 
     # 2. Preprocess Image
