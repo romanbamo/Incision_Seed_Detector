@@ -55,4 +55,4 @@ The model outputs the coordinates which are then de-normalized to the original i
 or installed from:
 ```bash
 pip install gdown
-gdown 1Z1YE09sp-ZmbWWWcLTJrEoBXPn-jY-MH -O models/efficientnet_b1_weights.pth
+gdown 1Z1YE09sp-ZmbWWWcLTJrEoBXPn-jY-MH -O models/best_model.pth
