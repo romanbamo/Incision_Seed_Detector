@@ -42,8 +42,8 @@ The model outputs the coordinates which are then de-normalized to the original i
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/romanbamo/Incision-Seed-Detector.git
-   cd Incision-Seed-Detector
+   git clone https://github.com/romanbamo/Incision_Seed_Detector.git
+   cd Incision_Seed_Detector
 
 2. Install dependences
    ```bash
